@@ -1,0 +1,43 @@
+@keyframes fish {
+0% {right: 400px;}
+50%{right: 800px;}
+100%{right: 1550px;}
+}
+@keyframes fish2 {
+	0%{left: 600px;}
+	50%{left: 1000px;}
+	100%{left: 1550px;}
+}
+@keyframes boat {
+	0%{ left: 200px;}
+	50%{left: 1000px;}
+	100%{left: 1550px;}
+}
+@keyframes medusa {
+	10% {bottom: 50px;}
+	50% {bottom: 90px;}
+	100% {bottom: 150px;}
+}
+@keyframes cloud {
+	0%{right: 400px;}
+	50%{right:800px;}
+	100%{right:1550px;}
+}
+@keyframes cloud2{
+	0%{left:400px;}
+	50%{left:800px;}
+	100%{left:1550px;}
+}
+@keyframes shark{
+	5%{right: 500px;}
+}
+@keyframes birdss{
+	15%{right: 600px;}
+	70%{right: 1200px;}
+	100%{right: 1550px;}
+}
+@keyframes fish1{
+	18%{left:400px;}
+	60%{left:700px;}
+	100%{left: 1550px;}
+}
